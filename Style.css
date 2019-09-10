@@ -1,0 +1,102 @@
+header
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+ .container
+{flex-direction: column;
+	justify-content: space-between;
+	width: 100%;
+}
+
+body
+{
+	display: flex;
+	justify-content: center;
+}
+
+#milieu {
+
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+* { 
+	font-family: arial;
+	font-size: small;
+ }
+
+#logo
+{
+	width: 50%
+}
+
+#centre
+{
+	display: flex;
+	justify-content: center;
+}
+
+.space
+{
+	margin: 5px;
+}
+
+#julien
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-content: flex-end;
+}
+
+#julien2
+{
+	border: 1px #E4E4E4 solid;
+	background-color: #F2F2F2;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#vraifooter
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 1px #E4E4E4 solid;
+	background-color: #F2F2F2
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#footer1
+{
+	display: flex;
+	justify-content: flex-end;
+	align-content: space-between;
+}
+
+#footer2
+{
+	display: flex;
+	justify-content: flex-end;
+	align-content: space-between;
+}
+
+#chance
+{
+	margin: 5px;
+}
+
+
+
+
+
